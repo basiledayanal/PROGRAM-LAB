@@ -1,4 +1,3 @@
-a_list = ["a", "b", "a"]
-occ = a_list.count("a")
- 
-print("count of occurrences of a :",occ)
+list = ['BASIL', 'NISHA', 'SAJIL', 'ELIAS', 'RENJU', 'REGHU']
+count = list.count('a')
+print('The count of a is:', count)
